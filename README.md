@@ -7,6 +7,9 @@ src="https://img.shields.io/badge/code%20quality-10-brightgreen"
 src="https://img.shields.io/badge/Skill%20rating(Full%20stack%20developer)-96%25-green"
 />
 <img
+src="https://github-profile-trophy.vercel.app/?username=botuns&theme=onedark"
+/>
+<img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=botuns&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 <img
