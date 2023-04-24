@@ -1,4 +1,5 @@
-# My-Portfolio
+# Hi 👋 there 🤭 !
+## I am Olajide AbdulQahar, A full stack developer you would always want to work with 😲
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=botuns&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
