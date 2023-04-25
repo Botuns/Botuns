@@ -12,6 +12,7 @@ src="https://github-profile-trophy.vercel.app/?username=botuns&theme=onedark"
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=botuns&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
+<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=botuns&max-items=2&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
 />
