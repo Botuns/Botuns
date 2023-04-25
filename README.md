@@ -17,7 +17,7 @@ src="https://github-profile-trophy.vercel.app/?username=botuns&theme=onedark"
 />
 <codersrank-timeline username="botuns" type="workexperience"></codersrank-timeline>
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?botuns=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+src="https://camo.githubusercontent.com/d174dd662f81f1beeae69aa99a75453960fd18cdf8328b2d5ee48e8947eeda82/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d79637a6172267468656d653d6f6e656461726b"
 />
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=botuns&max-items=2&dates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
