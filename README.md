@@ -29,5 +29,9 @@ src="https://camo.githubusercontent.com/d174dd662f81f1beeae69aa99a75453960fd18cd
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=botuns&max-items=2&certificates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
 />
-
-##... this is just little about me ![image](https://user-images.githubusercontent.com/102362014/228068044-f475177c-84b9-4164-bde3-4686da9d89b4.png)
+#### Below are languages I work with 😌:👇
+<img
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4dpb0JYRAERzlwXV7tJjQvkkz5yu9PgwBQ&usqp=CAU"
+/>
+### Follow me on LinkedIn: https://www.linkedin.com/mwlite/in/olajide-abdul-qahar-ba4b80238
+## This is just little about me ![image](https://user-images.githubusercontent.com/102362014/228068044-f475177c-84b9-4164-bde3-4686da9d89b4.png)
