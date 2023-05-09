@@ -6,6 +6,7 @@ src="https://img.shields.io/badge/code%20quality-10-brightgreen"
 <img
 src="https://img.shields.io/badge/Skill%20rating(Full%20stack%20developer)-96%25-green"
 />
+[![DeepScan grade](https://deepscan.io/api/teams/21175/projects/24583/branches/759589/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=21175&pid=24583&bid=759589)
 <img
 src="https://github-profile-trophy.vercel.app/?username=botuns&theme=onedark"
 />
