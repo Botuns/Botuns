@@ -15,12 +15,7 @@ src="https://github-profile-trophy.vercel.app/?username=botuns&theme=onedark"
 />
 <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=botuns&labels=true"
-/>
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=botuns&max-items=2&certificates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
-/>
+
 ## Below are languages I work with 😌:👇
 <img
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4dpb0JYRAERzlwXV7tJjQvkkz5yu9PgwBQ&usqp=CAU"
