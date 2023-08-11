@@ -1,7 +1,9 @@
 # Hi 👋 there 🤭 !
 ## I am Olajide AbdulQahar, A full stack developer you would always want to work with 😲
+
 <img src="https://github.com/Botuns/somestuff/blob/main/IdioticSmoggyBarb-mobile.gif" width="100" height="100" />
 ##### . 🌱 I’m currently learning block chain, with the use of Meta mask, Web3, and solidity,node js.
+
 ##### . I have a start-up idea but ... I can't execute it😔, if you can help me in it realization , get to me through my mail 📫abdulqaharolajide@gmail.com
 
 <img 
