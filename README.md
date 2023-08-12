@@ -75,5 +75,7 @@ style="vertical-align:top; margin: 4px">
 
 </p>
 
-### Follow me on LinkedIn: https://www.linkedin.com/mwlite/in/olajide-abdul-qahar-ba4b80238
+### Follow me on LinkedIn: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/mwlite/in/olajide-abdul-qahar-ba4b80238)
+
 ## This is just little about me ![image](https://user-images.githubusercontent.com/102362014/228068044-f475177c-84b9-4164-bde3-4686da9d89b4.png)
