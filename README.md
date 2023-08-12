@@ -78,4 +78,6 @@ style="vertical-align:top; margin: 4px">
 ### Follow me on LinkedIn: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/mwlite/in/olajide-abdul-qahar-ba4b80238)
 
+<a href="https://www.linkedin.com/mwlite/in/olajide-abdul-qahar-ba4b80238" style="background-color: #0077B5; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px; cursor: pointer;">Visit LinkedIn Profile</a>
+
 ## This is just little about me ![image](https://user-images.githubusercontent.com/102362014/228068044-f475177c-84b9-4164-bde3-4686da9d89b4.png)
