@@ -4,7 +4,9 @@
 <img src="https://github.com/Botuns/somestuff/blob/main/IdioticSmoggyBarb-mobile.gif" width="100" height="100" alt="Olajide's Avatar"/>
 
 ### 🌱 Currently Learning
-- Blockchain Development with MetaMask, Web3, Solidity, and Node.js.
+- Blockchain Development with MetaMask, Web3, Solidity, System designs.
+### 🛠️ Currently Building
+- **EduIfa**, revolutionalizing _Intelligent Knowledge Acquisition_ with AI in Africa.
 
 ### 🚀 About Me
 - I'm a passionate full stack developer with a knack for bringing ideas to life.
