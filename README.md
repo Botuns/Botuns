@@ -4,7 +4,7 @@
   <img src="https://github.com/Botuns/somestuff/blob/main/IdioticSmoggyBarb-mobile.gif" width="100" height="100" alt="Olajide's Avatar"/>
 </p>
 
-## 💻 Full Stack Developer | AI Engineer | Builder of the Future
+## 💻 Full Stack Engineer | AI Engineer | Builder of the Future
 
 I’m a curious mind obsessed with building tech that **impacts lives**, especially in Africa. Whether it's through EdTech, FinTech, or AI, I aim to **redefine how knowledge, finance, and opportunities are accessed**. Currently walking the thrilling path of entrepreneurship and computer science, one line of code at a time.
 
